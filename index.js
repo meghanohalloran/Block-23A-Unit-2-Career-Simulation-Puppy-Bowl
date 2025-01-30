@@ -1,6 +1,6 @@
 try {
   const response = await fetch(
-    'https://fsa-puppy-bowl.herokuapp.com/api/COHORT-NAME/players',
+    'https://fsa-puppy-bowl.herokuapp.com/api/2501-ftb-et-web-ft/players',
     {
       method: 'POST',
       headers: {
