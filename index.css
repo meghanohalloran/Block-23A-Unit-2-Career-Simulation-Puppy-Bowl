@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": {
+    "players": [
+      {
+        "id": 1,
+        "name": "Fluffy",
+        "breed": "Golden Retriever",
+        "status": "bench",
+        "imageUrl": "https://example.com/fluffy.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Max",
+        "breed": "Labrador",
+        "status": "active",
+        "imageUrl": "https://example.com/max.jpg"
+      }
+    ]
+  }
+}
